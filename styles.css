@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background: linear-gradient(120deg, #FFDEE9, #B5FFFC);
-    color: #333;
+    background: linear-gradient(120deg, #A8E0FF, #FFE0B2);
+    color: #444;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background: #FF6F61;
+    background: #4A90E2;
     color: white;
     padding: 15px 0;
     text-align: center;
@@ -24,13 +24,13 @@ header nav a {
 }
 
 header nav a:hover {
-    color: #FFD700;
+    color: #FFB300;
     text-decoration: underline;
 }
 
 main {
     padding: 30px;
-    background: #FFB6C1;
+    background: #FFEB3B;
     margin: 30px auto;
     max-width: 800px;
     border-radius: 10px;
@@ -39,7 +39,7 @@ main {
 
 footer {
     text-align: center;
-    background: pink;
+    background: #FF6F61;
     color: white;
     padding: 10px 0 0;
     position: fixed;
@@ -50,7 +50,7 @@ footer {
 }
 
 section h2 {
-    color: #FF4500;
+    color: #D32F2F;
 }
 
 ul {
@@ -59,7 +59,7 @@ ul {
 }
 
 ul li {
-    background: voilet;
+    background: #B2DFDB;
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
@@ -67,10 +67,10 @@ ul li {
 }
 
 ul li strong {
-    color: #FF4500;
+    color: #D32F2F;
 }
 
 ul li a {
-    color: #333;
+    color: #444;
     text-decoration: none;
 }
